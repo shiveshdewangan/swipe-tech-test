@@ -1,0 +1,16 @@
+.shifts {
+  list-style: none;
+  color: gray;
+  padding: 0px;
+  margin: 2px 5px;
+}
+
+.shifts li {
+  padding: 2px;
+  font-size: 1.2rem;
+}
+
+.horizontal-line {
+  width: 90%;
+  margin: 5px 5px;
+}
