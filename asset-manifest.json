@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/swipe-tech-test/static/css/main.ad389ffa.chunk.css",
+    "main.js": "/swipe-tech-test/static/js/main.85cedfb6.chunk.js",
+    "main.js.map": "/swipe-tech-test/static/js/main.85cedfb6.chunk.js.map",
+    "runtime~main.js": "/swipe-tech-test/static/js/runtime~main.6ca42072.js",
+    "runtime~main.js.map": "/swipe-tech-test/static/js/runtime~main.6ca42072.js.map",
+    "static/js/2.04ca56f4.chunk.js": "/swipe-tech-test/static/js/2.04ca56f4.chunk.js",
+    "static/js/2.04ca56f4.chunk.js.map": "/swipe-tech-test/static/js/2.04ca56f4.chunk.js.map",
+    "index.html": "/swipe-tech-test/index.html",
+    "precache-manifest.cb689131bfea3c7bfea8b84c8adc7960.js": "/swipe-tech-test/precache-manifest.cb689131bfea3c7bfea8b84c8adc7960.js",
+    "service-worker.js": "/swipe-tech-test/service-worker.js",
+    "static/css/main.ad389ffa.chunk.css.map": "/swipe-tech-test/static/css/main.ad389ffa.chunk.css.map"
+  }
+}
